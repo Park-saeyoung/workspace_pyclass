@@ -110,6 +110,11 @@
 # a, b, = input('문자열 두 개 입력 : ').split(',') # ','로 구분
 # print(a,b)
 
+# a, b = map(int, input('두 숫자를 입력 :').split())
+# print(a,b)
+
+# a, b, c = map(int, input('세 숫자를 입력 :').split(','))
+# print(a,b,c)
 
 # 연습 문제 ==================================================
 # 세 과목의 점수를 입력 받아 총점과 평균을 출력하시오.
@@ -125,7 +130,15 @@
 # print(year, month, day, sep='-', end=" ")
 # print(hour, min, sec, sep=':')
 
-#git test
+# 자료형 ==========================================
+
+
+
+
+
+
+
+
 
 
 # locker = {1:"park", 2:"Jung", 3:"Lee"}
